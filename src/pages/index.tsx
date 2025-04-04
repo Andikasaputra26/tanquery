@@ -97,7 +97,7 @@ export default function Home() {
               <>
                 <Image
                   src={detailProduct?.image || ""}
-                  alt={detailProduct?.title || "Product image"
+                  alt={detailProduct?.title || "Product image"}
                   width={200}
                   height={200}
                   className="object-contain w-40 h-40"
